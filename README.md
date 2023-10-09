@@ -111,3 +111,13 @@ HTTPレスポンス（WebサーバからWebブラウザに返される「お願�
 それを「通信フォーマット」といい、そのうち有名なものが『JSON』形式。   
 
 ### JSON追加課題
+
+``` {
+"name": "Tekkun", "home_town": "secret", "age": "secret", "active": true
+}
+```
+
+
+あああ
+
+
