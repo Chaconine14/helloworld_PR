@@ -124,7 +124,7 @@ HTTPレスポンス（WebサーバからWebブラウザに返される「お願�
   "product_name": "EJ26",
   "manufacture_name": "DADDARIO",
   "type": "for acoustic guitar",
-  "gauge": "011、015、022、032、042、052",
+  "gauge": [011,015,022,032,042,052],
   "material": "Phosphor Bronze"
 }
 ```
